@@ -1,0 +1,25 @@
+.App{
+  text-align: center;
+ 
+}
+table, th, td {
+  border:1px solid black;
+}
+nav{
+display:flex;
+justify-content: space-around;
+align-items: center;
+min-height :10vh;
+background:rgb(73, 79, 82);
+
+
+}
+.navbar-brand{
+color: white;
+ text-decoration: none;
+ text-align:right;
+ }
+ .container{
+margin:auto;
+max-width:30vh
+ }
